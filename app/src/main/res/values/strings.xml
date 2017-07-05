@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">EcertChain</string>
+    <string name="name">姓名</string>
+    <string name="student_id">学号</string>
+    <string name="cancel">取消</string>
+    <string name="submit">确定</string>
+    <string name="query_cat">证照类别</string>
+    <string name="apply_student_card">申请学生证电子证照</string>
+    <string name="apply_identity_card">申请身份证电子证照</string>
+    <string name="apply_teacher_licence">申请教师证电子证照</string>
+    <string name="identity_id">身份证号码</string>
+    <string name="teacher_id">教师证编号</string>
+    <string name="apply_driving_licence">申请驾驶证电子证照</string>
+    <string name="driving_id">驾驶证编号</string>
+    <string name="apply_index">请选择证照类型</string>
+    <string name="student">学生证</string>
+    <string name="identity">身份证</string>
+    <string name="driving">驾驶证</string>
+    <string name="teacher">教师证</string>
+    <string name="username">用户名</string>
+    <string name="password">输入密码</string>
+    <string name="login">登陆</string>
+    <string name="register">注册</string>
+    <string name="apply">申请电子证照</string>
+    <string name="query">查询电子证照</string>
+    <string name="quit">退出登录</string>
+    <string name="email">邮箱</string>
+    <string name="repassword">再次输入密码</string>
+    <string name="myecert">我的电子证照</string>
+    <string name="q_name">用户姓名</string>
+    <string name="query_hit">查询提示：类别码“1”表示学生证，类别码“2”表示身份证，类别码“3”表示驾驶证，类别码“4”表示教师证。</string>
+    <string name="result_name">姓名：</string>
+    <string name="result_num1">证照编号：</string>
+</resources>
